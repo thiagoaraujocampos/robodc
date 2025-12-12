@@ -4,3 +4,6 @@
 [submodule "robodc-api"]
 	path = robodc-api
 	url = https://github.com/thiagoaraujocampos/robodc-api
+[submodule "robodc-docs"]
+	path = robodc-docs
+	url = https://github.com/thiagoaraujocampos/robodc-docs
